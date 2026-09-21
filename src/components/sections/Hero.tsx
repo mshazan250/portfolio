@@ -175,7 +175,7 @@ export default function Hero() {
               >
                 <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-2 border-primary/30 animate-pulse-glow bg-card-bg">
                   <Image
-                    src="/images/shazan.jpg"
+                    src="/images/shazan.png"
                     alt="Mohamed Shazan"
                     width={320}
                     height={320}
